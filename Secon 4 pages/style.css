@@ -1,0 +1,25 @@
+.home {
+    height: 100vh;
+    background: blue;
+    margin: 0;
+    padding:0;
+}
+
+.about {
+    height: 100vh;
+    background: red;
+}
+
+.contact {
+    height: 100vh;
+    background: yellow;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }

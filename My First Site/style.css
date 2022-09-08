@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(to right, rgba(247, 232, 17, 0.959), rgba(255,0,0,1));
+}
+
+
+.image {
+
+   height: 100px;
+}
+
+.pictures {
+    background-color: red;
+   
+}
+
+.first-box {
+    background-color: red;
+    border: solid 5px black;
+    width: 500px;
+    text-align: center;   
+}
+
+.second-box {
+    background-color: rgb(50,250,50);
+    border: solid 5px black;
+    width: 500px;
+    text-align: center;   
+}
+
+.third-box {
+    background-color: rgba(0, 56, 160, .5);
+    border: solid 5px black;
+    width: 500px;
+    text-align: center;   
+}
+
+.border {
+    display: flex;
+    border: solid 5px red;
+}
+
+.inner {
+    width: 50%;
+    border: solid 5px blue;
+}
+
+.all-in {
+    width: 50%;
+    border: solid 5px yellow;
+}
+
+.giraffe {
+    background-color: red;
+    display: flex;
+}
